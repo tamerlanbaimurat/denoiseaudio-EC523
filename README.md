@@ -5,8 +5,6 @@
 
 This project works to denoise audio using parts from a Convolutional Neural Network (CNN) and Attention, specifically DeltaNet and Multihead Attention architectures.  
 
-This README is a WIP.
-
 ## Installation and Setup
 
 The final model notebook (`EC523_Project_Final_Model.ipynb`) is designed to be run in **Google Colab**. 
