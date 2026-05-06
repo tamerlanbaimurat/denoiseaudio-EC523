@@ -18,6 +18,6 @@ Due to the model size and memory constraints, you will need an **A100 40GB GPU**
 1. Open `EC523_Project_Final_Model.ipynb` in Google Colab.
 2. Change the runtime type to use an A100 GPU (`Runtime` > `Change runtime type` > Hardware accelerator: `A100 GPU`).
 3. Download the necessary model checkpoints from our Google Drive:
-   - [Download Checkpoint (Placeholder URL)](#)
+   - [https://drive.google.com/drive/folders/1v_ujJ8AO8EWTXrdweNC5JGt5FNAeknl_?usp=drive_link](#)
 4. Mount your Google Drive or upload the checkpoint directly to your Colab environment.
 5. Follow the cells in the notebook to install dependencies, load the model, and run inferences.
